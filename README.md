@@ -18,9 +18,9 @@ Conforme vou produzindo as aulas, vou incluindo aqui os conteúdos de cada uma d
 ### Modelando a heterocedasticidade 
 ### Seleção de modelos
 ### Regressão múltipla 
-## Desenhos experimentais 
-## Modelos lineareas generalizados (Poisson, Bernoulli/Binomial)
-## Modelos lineares generalizados e mistos 
+### Desenhos experimentais 
+### Modelos lineareas generalizados (Poisson, Bernoulli/Binomial)
+### Modelos lineares generalizados e mistos 
 
 
 ## Contato
